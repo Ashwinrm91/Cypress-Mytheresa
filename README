@@ -1,0 +1,11 @@
+How to execute:
+I have added LoginTest.test.js under the integration folder which contains the code for automation.
+Please open the terminal and enter .\node_modules\.bin\cypress open the cypress window.
+From there you can run the file.
+
+Note:
+I have completed the automation task both in Cypress and Selenium.
+Since I have working experience in selenium BDD, I was able to solve the task without any issues.
+Even though I have limited knowledge of Cypress since I have worked on selenium throughout my career, I was able to complete the Automation task by learning it. 
+I have faced many issues while creating the script, I did the research and could able to solve the problem.
+On the given chance, I can ramp up myself on Cypress and exhibit my automation skills. In addition to that, I have a basic understanding of Javascript.
