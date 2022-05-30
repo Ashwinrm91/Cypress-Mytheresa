@@ -1,0 +1,14 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Web Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ashwin Rm",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
